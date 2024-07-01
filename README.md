@@ -1,6 +1,8 @@
 # DADS7203_ThaiAlphabet_Homework
+## Data Collection
+Capturing data from https://thaifaces.com/ and save it into each class (ด ต ค ฅ ศ)
 
-Total dataset equals to 1853 images including
+### Total dataset equals to 1853 images including
 - ด 374 images
 - ฅ 346 images
 - ค 367 images
