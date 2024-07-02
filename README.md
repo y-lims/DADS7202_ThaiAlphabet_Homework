@@ -4,7 +4,7 @@ Capturing data from https://thaifaces.com/ and save it into each class (ด ต 
 
 ### Total dataset equals to 1853 images including
 - ด 374 images
-- ฅ 346 images
+- ฅ 376 images
 - ค 367 images
-- ต 407 images
+- ต 376 images
 - ศ 359 images
